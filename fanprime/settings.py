@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-jwf!^$d92)x$q!^86d%h0!vyt4gdh#)thg^^!3rznr*@kr8!2=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["fanprime-test.herokuapp.com", "127.0.0.1"]
 
 
 # Application definition
